@@ -120,4 +120,4 @@ location: bj2024
 
 微信公众号：统计之都
 
-统计之都组委会邮箱：chinar-2024@cosx.org
+统计之都组委会邮箱：chinar-ifods-2024@cosx.org 
