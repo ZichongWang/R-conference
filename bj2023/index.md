@@ -113,7 +113,7 @@ location: bj2023
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    <img src="{{ '/img/2023baoming.png' | prepend: site.baseurl }}" alt="报名二维码" class="img-responsive center-block" />
+    <img src="{{ '/asset/22df902ebfc3d45df54d7de0b7113a6.png' | prepend: site.baseurl }}" alt="报名二维码" class="img-responsive center-block" />
   </div>
 </div>
 
